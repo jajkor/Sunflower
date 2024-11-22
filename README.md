@@ -1,5 +1,6 @@
 # 🌻 Sunflower: A Heliotropic Solar Tracker
-![License](https://img.shields.io/github/license/jajkor/Sunflower)
+
+![20241122_162104c](https://github.com/user-attachments/assets/cda4e0fa-d941-4b97-a674-e8903f6aa09b)
 
 ## Overview
 
@@ -43,9 +44,3 @@
 
 - **Real-Time Pan/Titl Display:**
     - The current angle of the pan and tilt servos are displayed on the LCD.
-
-## For questions or collaborations, feel free to reach out:
-- **Author:**
-    - Robert Jajko
-    - [Email](mailto:rjajko68@gmail.com)
-    - [LinkedIn](www.linkedin.com/in/robert-jajko)
